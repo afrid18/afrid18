@@ -4,7 +4,7 @@ I am Afrid Hussain, undergraduate student in Sri Venkateswara College of Enginee
 I am a software enthusiast and looking to build something useful with the skills.
 
 [![Linkedin: Afrid Hussain](https://img.shields.io/badge/-Afrid Hussain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afridhussain/)](https://www.linkedin.com/in/afridhussain/)
-[![GitHub Afrid Hussain](https://img.shields.io/github/followers/afrid18?label="follow me"&style=social)](https://github.com/afrid18)
+[![GitHub Afrid Hussain](https://img.shields.io/github/followers/afrid18?label=follow&style=social)](https://github.com/afrid18)
 
 
 <!--
