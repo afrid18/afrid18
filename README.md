@@ -6,6 +6,7 @@ I am a software enthusiast and looking to build something useful with my skills.
 [![Linkedin: Afrid Hussain](https://img.shields.io/badge/-AfridHussain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/afridhussain/)](https://www.linkedin.com/in/afridhussain/)
 [![GitHub Afrid Hussain](https://img.shields.io/github/followers/afrid18?label=follow&style=social)](https://github.com/afrid18)
 
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=afrid18.afrid18)
 
 <!--
 **afrid18/afrid18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
