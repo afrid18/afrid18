@@ -1,4 +1,4 @@
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am [Afrid!](https://afrid18.github.io/my-cv/)
+### Hi there 👋, I am [Afrid!](https://afrid18.github.io/my-cv/)
 
 I am Afrid Hussain, 3rd year undergraduate student in Sri Venkateswara College of Engineering and Technology pursuing Computer Science and Engineering.
 I am a software enthusiast and looking to build something useful with my skills.
