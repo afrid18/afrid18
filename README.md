@@ -27,7 +27,7 @@ Also I am working on some of my open source projects, some active projects are V
 <h1 align="center"> Github Stats </h1>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=afrid18&count_private=true&show_icons=true&theme=dracula" width="450px">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=afrid18" width="450px">
+<img src="https://github-readme-stats.vercel.app/api?username=afrid18&count_private=true&show_icons=true&theme=dracula" width="400px">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=afrid18" width="400px">
 </p>
 
