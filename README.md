@@ -5,7 +5,7 @@
 <h1 align="center"> Intro </h1>
 
 <p align="center">
-I am currently pursuing my Bachelors of Technology in Computer Science from <a href="svcetedu.org">Sri Venkateswara College of Engineering and Technology</a>, Chittoor, India. I am also doing my part time internship from <a href="https://www.baskethunt.com/">Basket Hunt</a>, as a Web Developer.
+I am currently pursuing my Bachelors of Technology in Computer Science from <a href="https://svcetedu.org/">Sri Venkateswara College of Engineering and Technology</a>, Chittoor, India. I am also doing my part time internship from <a href="https://www.baskethunt.com/">Basket Hunt</a>, as a Web Developer.
 Also I am working on some of my open source projects, some active projects are <a href="https://github.com/afrid18/Velocity">Velocity</a>. I am always learning and exploring technology as a Web Developer.
 
 </p>
