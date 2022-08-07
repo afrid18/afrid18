@@ -2,9 +2,11 @@
   <img src="https://drive.google.com/file/d/1CWyhKQ232VwSSNKLLeozLQhg4yLE-MZO/view?usp=sharing">
 </p>
 
-<p align="center">
 
-## Intro
+
+<h1 align="center"> Intro </h1>
+
+<p align="center">
 
 I am currently pursuing my Bachelors of Technology in Computer Science from Sri Venkateswara College of Engineering and Technology, Chittoor, India. I am also doing my part time internship from [Basket Hunt](https://www.baskethunt.com/), as a Web Developer!. Also I am working on some of my open source projects, some active projects are [Velocity](https://github.com/afrid18/velocity). I am always learning and exploring technology as a Web Developer.
 
@@ -19,13 +21,9 @@ I am currently pursuing my Bachelors of Technology in Computer Science from Sri 
 </p>
 
 
-<p align="left">
+<p align="center">
 
 [![Afrid's GitHub stats](https://github-readme-stats.vercel.app/api?username=afrid18&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-</p>
-
-<p align="right">
 
 [![Afrid's stats](https://github-readme-stats.vercel.app/api/wakatime?username=afrid18)](https://github.com/anuraghazra/github-readme-stats)
 </p>
