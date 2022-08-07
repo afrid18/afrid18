@@ -9,7 +9,7 @@ I am currently pursuing my Bachelors of Technology in Computer Science from Sri 
 Also I am working on some of my open source projects, some active projects are Velocity. I am always learning and exploring technology as a Web Developer.
 </p>
 
-<!-- [![GitHub Afrid Hussain](https://img.shields.io/github/followers/afrid18?label=follow&style=social)](https://github.com/afrid18) -->
+<h1 align="center"> Socials </h1>
 
 <p align="center">
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afrid18">&nbsp;&nbsp;&nbsp;
@@ -20,6 +20,7 @@ Also I am working on some of my open source projects, some active projects are V
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=afrid18.afrid18) -->
 
+<h1 align="center"> Github Stats </h1>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=afrid18&count_private=true&show_icons=true&theme=dracula" width="350px">
