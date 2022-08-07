@@ -12,7 +12,8 @@ Also I am working on some of my open source projects, some active projects are V
 <!-- [![GitHub Afrid Hussain](https://img.shields.io/github/followers/afrid18?label=follow&style=social)](https://github.com/afrid18) -->
 
 <p align="center">
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afrid18)
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afrid18"&nbsp;&nbsp;&nbsp;
+<!-- [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afrid18) -->
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/afrid1808)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://afridhussain.me)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/afridhussain/)
