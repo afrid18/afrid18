@@ -7,8 +7,8 @@
 <h1 align="center"> Intro </h1>
 
 <p align="center">
-I am currently pursuing my Bachelors of Technology in Computer Science from Sri Venkateswara College of Engineering and Technology, Chittoor, India. I am also doing my part time internship from [Basket Hunt](https://www.baskethunt.com/), as a Web Developer!. 
-Also I am working on some of my open source projects, some active projects are [Velocity](https://github.com/afrid18/velocity). I am always learning and exploring technology as a Web Developer.
+I am currently pursuing my Bachelors of Technology in Computer Science from Sri Venkateswara College of Engineering and Technology, Chittoor, India. I am also doing my part time internship from <a herf="https://www.baskethunt.com">Basket Hunt</a>, as a Web Developer!. 
+Also I am working on some of my open source projects, some active projects are <a herf="https://github.com/afrid18/velocity">Velocity</a>. I am always learning and exploring technology as a Web Developer.
 </p>
 
 <!-- [![GitHub Afrid Hussain](https://img.shields.io/github/followers/afrid18?label=follow&style=social)](https://github.com/afrid18) -->
