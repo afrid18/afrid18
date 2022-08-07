@@ -8,8 +8,9 @@
 I am currently pursuing my Bachelors of Technology in Computer Science from Sri Venkateswara College of Engineering and Technology, Chittoor, India. I am also doing my part time internship from Basket Hunt, as a Web Developer.
 Also I am working on some of my open source projects, some active projects are Velocity. I am always learning and exploring technology as a Web Developer.
 
-<br><br>
+</p>
 
+<p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=afrid18.afrid18">
 </p>
 
@@ -26,7 +27,7 @@ Also I am working on some of my open source projects, some active projects are V
 <h1 align="center"> Github Stats </h1>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=afrid18&count_private=true&show_icons=true&theme=dracula" width="350px">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=afrid18" width="350px">
+<img src="https://github-readme-stats.vercel.app/api?username=afrid18&count_private=true&show_icons=true&theme=dracula" width="450px">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=afrid18" width="450px">
 </p>
 
