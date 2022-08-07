@@ -8,6 +8,7 @@
 I am currently pursuing my Bachelors of Technology in Computer Science from Sri Venkateswara College of Engineering and Technology, Chittoor, India. I am also doing my part time internship from Basket Hunt, as a Web Developer.
 Also I am working on some of my open source projects, some active projects are Velocity. I am always learning and exploring technology as a Web Developer.
 
+<br><br>
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=afrid18.afrid18">
 </p>
