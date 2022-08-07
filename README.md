@@ -17,10 +17,10 @@ Also I am working on some of my open source projects, some active projects are V
 <h1 align="center"> Socials </h1>
 
 <p align="center">
-<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/afrid18">&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/afrid1808">&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://afridhussain.me">&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/afridhussain/">&nbsp;&nbsp;&nbsp;
+<a target="_blank"herf="https://github.com/afrid18"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
+<a target="_blank"herf="https://twitter.com/afrid1808"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
+<a target="_blank"herf="https://www.linkedin.com/in/afridhussain/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
+<a target="_blank"herf="https://afridhussain.me/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>&nbsp;&nbsp;&nbsp;
 </p>
 
 
