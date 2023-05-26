@@ -1,20 +1,6 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/59523682/183292831-d09023be-75ca-4909-9841-3bbff96a9114.png">
-</p>
+ <h1 align='center'> Hi 👋🏻,  Afrid Here! </h1>
 
-<h1 align="center"> Intro </h1>
-
-<p align="center">
-I am currently pursuing my Bachelors of Technology in Computer Science from <a href="https://svcetedu.org/">Sri Venkateswara College of Engineering and Technology</a>, Chittoor, India.
-Also I am working on some of my open source projects, some active projects are <a href="https://github.com/afrid18/Velocity">Velocity</a>. I am always learning and exploring technology as a Web Developer.
-
-</p>
-
-<p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=afrid18.afrid18">
-</p>
-
-<h1 align="center"> Socials </h1>
+<h2 align="center"> Socials </h2>
 
 <p align="center">
 <a target="_blank"href="https://github.com/afrid18"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;
@@ -23,8 +9,7 @@ Also I am working on some of my open source projects, some active projects are <
 <a target="_blank"href="https://afridhussain.tech/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-
-<h1 align="center"> Github Stats </h1>
+<h2 align="center"> Github Stats </h2>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=afrid18&count_private=true&show_icons=true&theme=dracula" width="400px">
@@ -33,4 +18,3 @@ Also I am working on some of my open source projects, some active projects are <
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrid18&layout=compact"/>
 </p>
-
