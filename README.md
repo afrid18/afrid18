@@ -1,4 +1,53 @@
- <h1 align='center'> Hi 👋🏻,  Afrid Here! </h1>
+<h1 align="center">Afrid Hussain</h1>
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/59523682?s=400&u=bce02392fb9d38758b93f0d5b0b6a35bfef33e0a&v=4" alt="Profile Image" width="100" height="100" style="border-radius: 50%;">
+</p>
+
+<p align="center">Software Developer | Open Source Enthusiast</p>
+
+---
+
+<h1 align="center"> Skills </h1>
+
+- Python | JavaScript | NodeJS
+- Git | Docker | Microsoft Azure
+- Rest API | MySQL | Data Structures
+
+---
+
+<h1 align="center"> Work Experience </h1>
+
+- **Google Summer of Code (GSoC ‘23)**<br>
+
+  > OpenSource contributor
+
+- **Newton School**<br>
+
+  > Community Management Intern
+
+- **Vellore Institute of Technology, Vellore**<br>
+  > Python Automation Workshop Tutor
+
+---
+
+<h1 align="center"> Projects </h1>
+
+- **Private VPN on Azure EC2**
+
+  - Secure and private VPN installed on Azure EC2 instance powered with Ubuntu 20.04.
+  - Used Pi-hole for easy configuration.
+
+- **Velocity - A fast automatic file executor**
+
+  - A CLI tool to automate the process of compiling and executing.
+  - Seamlessly runs test cases and provides outputs simultaneously.
+
+- **Data Structures and Algorithms**
+  - Solved exercises from books in CPP and Python.
+  - Organized repository with organized folders.
+
+---
 
 <h2 align="center"> Socials </h2>
 
