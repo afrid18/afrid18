@@ -61,9 +61,6 @@
 <h2 align="center"> Github Stats </h2>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=afrid18&count_private=true&show_icons=true&theme=dracula" width="400px">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=afrid18" width="400px">
-</p>
-<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrid18&layout=compact"/>
 </p>
